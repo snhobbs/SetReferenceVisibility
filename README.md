@@ -9,3 +9,6 @@ https://docs.kicad.org/6.0/en/plugins/plugins.html
 
 ## Explanation
 I made a blog post [here](https://maskset.net/kicad-pcbnew-scripting-removing-ref-des-from-silk-screen/) explaining the approach.
+
+## Notes
+Turns out you can do this with the "Edit Text and Graphics Properties" menu. 
